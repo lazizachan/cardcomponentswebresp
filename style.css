@@ -51,6 +51,12 @@ header h1 {
   color: #ccc;
   letter-spacing: 2px;
 }
+.github {
+  color: #595979;
+}
+.fa-github {
+  font-size: 2rem;
+}
 main {
   width: 400px;
 }
@@ -88,7 +94,7 @@ img {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 1rem 2rem;
+    padding: 0.6rem 2rem;
   }
   header h1 {
     padding-bottom: 0.5rem;
@@ -165,16 +171,16 @@ img {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 0.8rem 2rem;
+    padding: 0 2rem;
   }
   header h1 {
-    padding-bottom: 0.4rem;
+    padding-bottom: 0.2rem;
     font-size: 1.8rem;
   }
   .stats {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     padding: 0.8rem 0;
   }
 }
